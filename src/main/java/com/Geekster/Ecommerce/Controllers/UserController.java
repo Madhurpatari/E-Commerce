@@ -1,7 +1,6 @@
 package com.Geekster.Ecommerce.Controllers;
 
 import com.Geekster.Ecommerce.Models.Address;
-import com.Geekster.Ecommerce.Models.OrderItem;
 import com.Geekster.Ecommerce.Models.User;
 import com.Geekster.Ecommerce.Services.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
